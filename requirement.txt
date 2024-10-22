@@ -1,0 +1,5 @@
+streamlit
+vertexai
+google-cloud-storage
+google-cloud-bigquery
+Pillow
